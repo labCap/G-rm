@@ -565,6 +565,7 @@ body.lock {
 /* experience */
 .section__title-experience {
     max-width: 544px;
+    margin: 0 120px;
 }
 
 .experience__inner {
