@@ -368,28 +368,7 @@ body.lock {
     transition: all .5s linear;
 }
 
-.ico__mouse:hover {
-    animation: ico__mouse-anim .5s linear 1;
-}
 
-@keyframes ico__mouse-anim {
-    0% {
-        transform: translateY(0px);
-    }
-
-    25% {
-        transform: translateY(-5px);
-    }
-
-    75% {
-        transform: translateY(7px);
-    }
-
-    100% {
-        transform: translateY(0px);
-    }
-
-}
 
 /* showreel */
 .showreel {
@@ -589,15 +568,13 @@ body.lock {
     max-width: 544px;
 }
 
-.experience {
-    padding: 0 120px;
-}
+.experience {}
 
 .experience__inner {
     margin: 81px 0 0 0;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .experience__item {
