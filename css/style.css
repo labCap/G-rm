@@ -659,7 +659,7 @@ body.lock {
 }
 
 .skills__content {
-    max-width: 500px;
+    flex: 0 0 550px;
     color: rgba(255, 255, 255, 0.8);
 }
 
@@ -760,7 +760,7 @@ body.lock {
 }
 
 .about__content {
-    max-width: 500px;
+    flex: 0 0 550px;
 }
 
 .about__title {

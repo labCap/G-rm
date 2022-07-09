@@ -133,6 +133,11 @@
         justify-content: center;
     }
 
+    .skills__content {
+        max-width: 550px;
+        flex: 1;
+    }
+
     .skills__title {
         text-align: center;
     }
@@ -144,6 +149,11 @@
     /* about */
     .about {
         justify-content: center;
+    }
+
+    .about__content {
+        max-width: 550px;
+        flex: 1;
     }
 
     .about__title {
