@@ -136,7 +136,7 @@ a {
     padding: 24.5px 0;
     text-transform: uppercase;
     position: relative;
-    z-index: -1;
+/*     z-index: -1; */
 }
 
 .header__inner::before {
